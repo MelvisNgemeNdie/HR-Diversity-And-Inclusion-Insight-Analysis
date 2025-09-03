@@ -1,7 +1,7 @@
 ## HR Diversity & Inclusion Insight Analysis
 
 ### Project Overview
-As part of the **PwC Virtual Work Experience Program**, I conducted a **diversity and inclusion analysis** for *Call Now Customer Service Company*.  
+As part of the **PwC Switzerland Business Intelligence Consultant Virtual Work Experience Program**, I conducted a **diversity and inclusion analysis** for *Call Now Customer Service Company*.  
 
 The project evaluated **workforce representation across hiring and promotion KPIs** to uncover diversity bottlenecks and propose actionable strategies for greater gender balance.
 
