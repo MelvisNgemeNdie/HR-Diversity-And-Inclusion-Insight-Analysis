@@ -39,7 +39,7 @@ The project evaluated **workforce representation across hiring and promotion KPI
 ---
 
 ### Dashboard Preview
-*(Add a screenshot of your Tableau dashboard here if available)*  
+*(Add a screenshot of your Tableau dashboard here )*  
 
 [![View Tableau Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourDashboardLinkHere)
 
