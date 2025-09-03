@@ -1,6 +1,6 @@
 ## HR Diversity & Inclusion Insight Analysis
 
-### Description
+### Project Overview
 As part of the **Accenture North America Data Analytics and Visualisation Virtual Work Experience Program**, I conducted a **diversity and inclusion analysis** for *Call Now Customer Service Company*.  
 
 The project evaluated **workforce representation across hiring and promotion KPIs** to uncover diversity bottlenecks and propose actionable strategies for greater gender balance.
